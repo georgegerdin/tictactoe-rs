@@ -1,0 +1,8 @@
+[package]
+name = "tictactoe"
+version = "0.1.0"
+authors = ["george"]
+edition = "2018"
+
+[dependencies]
+qmetaobject = { git = "https://github.com/woboq/qmetaobject-rs.git"}
